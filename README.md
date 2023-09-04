@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://ffmpeg.org/"><img src="https://imgur.com/a/Tu3fy2m" width="396"></a>
+  <a href="https://ffmpeg.org/"><img src="https://i.imgur.com/wL7E6Yj.png" width="396"></a>
   <br>
   FFMPEG WEBUI
   <br>
