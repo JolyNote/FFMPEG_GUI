@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FFMPEG Web Interface</title>
+</head>
+<body>
+    <h1>FFMPEG Web Interface</h1>
+    <form method="post" action="{{ url_for('upload') }}" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <label for="format_name">Output Format:</label>
+        <select name="format_name">
+            <option value="mp4">MP4</option>
+            <option value="avi">AVI</option>
+            <option value="mkv">MKV</option>
+        </select><br>
+        <label for="x-scale">Ширина(пикс.)</label>
+        <input type="text" id="x-scale" name="x">
+        <label for="y-scale">Высота(пикс.)</label>
+        <input type="text" id="y-scale" name="y"><br>
+        <input type="submit" value="Process">
+    </form>
+</body>
+</html>
