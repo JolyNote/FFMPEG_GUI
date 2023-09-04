@@ -7,11 +7,11 @@
   <br>
 </h1>
 
-<h4 align="center">Веб-интерфейс для обработчика и конвертера FFMPEG<a href="https://ffmpeg.org/" target="_blank">FFMPEG</a>.</h4>
+<h4 align="center">Веб-интерфейс для обработчика и конвертера <a href="https://ffmpeg.org/" target="_blank">FFMPEG</a>.</h4>
 
 <p align="center">
   <a href="#установка">Установка</a> •
-  <a href="#скачать">Скачать</a> •
+  <a href="#скачать">Скачать</a> 
 </p>
 
 ## Установка
